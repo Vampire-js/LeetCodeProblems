@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
