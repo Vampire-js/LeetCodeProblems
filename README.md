@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -26,4 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
