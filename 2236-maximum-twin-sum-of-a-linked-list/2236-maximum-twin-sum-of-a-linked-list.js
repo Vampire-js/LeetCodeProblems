@@ -17,10 +17,14 @@ var pairSum = function (head) {
         head = head.next
     }
     let sum = 0
-    for(let i = 0; i<arr.length; i++){
-        if(arr[i] + arr[arr.length-i-1] >= sum){
-            sum =arr[i] + arr[arr.length-i-1]
-        }
+   let left = 0
+   let right = arr.length -1 
+   while(left < right){
+    if(arr[left] + arr[right] >= sum){
+        sum = arr[left] + arr[right]
     }
+    left++
+    right--
+   }
     return sum
 };
