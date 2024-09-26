@@ -10,16 +10,38 @@
  * @return {number}
  */
 var pairSum = function (head) {
-    let arr = []
-    while (head) {
+    let fast = head
+    let slow = head
+let max= 0
 
-        arr.push(head.val)
-        head = head.next
+
+    while(fast && fast.next){
+        fast = fast.next.next
+        slow = slow.next
+    }   
+    fast = head
+    slow = reverseList(slow)
+
+
+    
+    function reverseList(h){
+        let current = h
+        let prev = null
+        while(current){
+            let next=  current.next
+            current.next = prev
+            prev = current
+            current = next
+        }
+        return prev
+    }
+ 
+    while(slow){
+      let sum = fast.val + slow.val;
+        max = Math.max(sum,max);
+        slow = slow.next;
+        fast = fast.next;
     }
 
- let max = 0;
-    for(let i=0; i<arr.length; i++){
-        max = Math.max(max, (arr[i] + arr[arr.length-1-i]));
-    }
-    return max;
+    return max
 };
