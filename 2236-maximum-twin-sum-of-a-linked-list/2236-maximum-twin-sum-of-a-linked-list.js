@@ -16,15 +16,10 @@ var pairSum = function (head) {
         arr.push(head.val)
         head = head.next
     }
-    let sum = 0
-   let left = 0
-   let right = arr.length -1 
-   while(left < right){
-    if(arr[left] + arr[right] >= sum){
-        sum = arr[left] + arr[right]
+
+ let max = 0;
+    for(let i=0; i<arr.length; i++){
+        max = Math.max(max, (arr[i] + arr[arr.length-1-i]));
     }
-    left++
-    right--
-   }
-    return sum
+    return max;
 };
