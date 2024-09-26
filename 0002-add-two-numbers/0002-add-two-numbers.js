@@ -35,9 +35,9 @@ var addTwoNumbers = function(l1, l2) {
     let mover = head;
 
     for (let i = 1; i < ans.length; i++) {
-        mover.next = new ListNode(parseInt(ans[i]));
-        mover = mover.next;
+        head.next = new ListNode(parseInt(ans[i]));
+        head = head.next;
     }
 
-    return head;
+    return mover;
 };
