@@ -15,14 +15,11 @@ var isPalindrome = function(head) {
         arr.push(head.val)
         head = head.next
     }
-    let a1 = arr
-    let s = arr.join('')
-    let s1 = arr.reverse().join('')
-    console.log(s , s1)
-    if(s ==s1){
-        return true
-    }
-    else{
-        return false
-    }
+   let left = 0
+   let right = arr.length - 1
+   while(left < right && arr[left] == arr[right]){
+    left++
+    right--
+   }
+   return left >= right
 };
