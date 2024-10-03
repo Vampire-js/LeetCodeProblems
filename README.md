@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0136-single-number) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Hash Table
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
