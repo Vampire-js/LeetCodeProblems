@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
