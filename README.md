@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Sorting
