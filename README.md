@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0136-single-number) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0001-two-sum) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
