@@ -3,21 +3,17 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let map = {}
-let max = 0
-let index = 0
-    for(let i=0; i<nums.length; i++){
-        map[nums[i]] = 0
-    }
-    for(let i=0; i<nums.length; i++){
-        map[nums[i]] += 1
-    }
-    for(let n in map){
-        if(map[n] > max){
-            max = map[n]
-            index = n
+    const hash = {};
+    let index = 0;
+    let max = 0;
+
+    for (let n of nums) {
+        hash[n] = 1 + (hash[n] || 0);
+        if (hash[n] > max) {
+            index = n;
+            max = hash[n];
         }
     }
-    console.log(map)
-    return parseInt(index)
+
+    return index;    
 };
