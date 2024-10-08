@@ -12,6 +12,10 @@ var maxPoints = function(points) {
     }
     let max = 1
 
+    if(points.length == 1) return 1
+    if(points.length == 0) return 0
+    if(points.length == 2 ) return 2
+
     for(let x =0; x < points.length; x++){
         let map = {}
         for(let y = x + 1; y < points.length; y++){
