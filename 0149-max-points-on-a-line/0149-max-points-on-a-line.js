@@ -17,13 +17,13 @@ var maxPoints = function(points) {
         for(let y = x + 1; y < points.length; y++){
             let slope = findSlope(points[x], points[y])
             map[slope] = 1 + (map[slope] || 0 ) 
-    console.log(slope)
 
         }
         
         for (let [slope, value] of Object.entries(map)) {
             max = Math.max(max, value + 1)
         }
+        
     }
 
    return max
