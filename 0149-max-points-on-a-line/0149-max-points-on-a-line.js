@@ -3,32 +3,42 @@
  * @return {number}
  */
 var maxPoints = function(points) {
+    if (points.length <= 2) return points.length;
+
+    // Helper function to find the GCD of two numbers
+    const gcd = (a, b) => b === 0 ? a : gcd(b, a % b);
     
-   let findSlope = function (p1, p2) {
-        let num = p2[1] - p1[1]
-        let denom = p2[0] - p1[0]
-    if(denom == 0) return "i"
-        return num/denom
-    }
-    let max = 1
+    let max = 1;
 
-    if(points.length == 1) return 1
-    if(points.length == 0) return 0
-    if(points.length == 2 ) return 2
+    for (let i = 0; i < points.length; i++) {
+        let map = {};
+        for (let j = i + 1; j < points.length; j++) {
+            let dx = points[j][0] - points[i][0];
+            let dy = points[j][1] - points[i][1];
 
-    for(let x =0; x < points.length; x++){
-        let map = {}
-        for(let y = x + 1; y < points.length; y++){
-            let slope = findSlope(points[x], points[y])
-            map[slope] = 1 + (map[slope] || 0 ) 
+            // Use GCD to normalize the slope
+            const g = gcd(dx, dy);
+            dx /= g;
+            dy /= g;
 
+            // Handle vertical lines consistently
+            if (dx === 0) {
+                dy = 1; // normalize the slope for vertical lines
+            } else if (dy === 0) {
+                dx = 1; // normalize the slope for horizontal lines
+            } else if (dx < 0) {
+                dx = -dx;
+                dy = -dy;
+            }
+
+            let slope = `${dx}/${dy}`;
+            map[slope] = 1 + (map[slope] || 0);
         }
-        
-        for (let [slope, value] of Object.entries(map)) {
-            max = Math.max(max, value + 1)
+
+        for (let count of Object.values(map)) {
+            max = Math.max(max, count + 1);
         }
-        
     }
 
-   return max
-}
+    return max;
+};
