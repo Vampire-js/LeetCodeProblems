@@ -11,35 +11,20 @@ var maxPoints = function(points) {
     for (let i = 0; i < points.length - 1; i++) {
         let map = {};
         let localMax = 0;
+let findSlope = function (p1, p2) {
+        let [x1,y1] = p1
+        let [x2,y2] = p2
 
+        return (y2-y1)/(x2-x1)
+    }
         for (let j = i + 1; j < points.length; j++) {
-            let dx = points[j][0] - points[i][0];
-            let dy = points[j][1] - points[i][1];
-
-            // Normalize the slope by reducing to simplest form
-            const g = gcd(dx, dy);
-            dx /= g;
-            dy /= g;
-
-            // Ensure consistent representation of slopes
-            if (dx === 0) {
-                dy = 1;
-            } else if (dy === 0) {
-                dx = 1;
-            } else if (dx < 0) {
-                dx = -dx;
-                dy = -dy;
-            }
-
-            const slope = `${dx},${dy}`;
+            const slope = findSlope(points[i], points[j])
             map[slope] = (map[slope] || 0) + 1;
             localMax = Math.max(localMax, map[slope]);
         }
 
-        // Update global max with the local maximum + 1 for the point itself
         max = Math.max(max, localMax + 1);
 
-        // If remaining points are not enough to beat current max, break early
         if (max >= points.length - i) break;
     }
 
