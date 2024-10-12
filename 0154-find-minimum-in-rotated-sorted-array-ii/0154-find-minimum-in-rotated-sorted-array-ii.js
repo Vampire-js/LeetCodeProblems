@@ -4,23 +4,30 @@
  */
 var findMin = function(nums) {
     let left = 0;
-    let right = 1;
-    let ans = 0;
+    let right = nums.length -1;
 
-    while(right < nums.length){
+    while(left < right){
+        let mid = Math.floor((left + right)/2)
 
-        if(nums[left] > nums[right]){
-            ans = right
-            break;
+if(nums[mid] == nums[right]){
+right--
+}else if(nums[mid] > nums[right]){
+            left = mid + 1
         }else{
-            ans = 0
+            right = mid
         }
+        // if(nums[left] > nums[right]){
+        //     ans = right
+        //     break;
+        // }else{
+        //     ans = 0
+        // }
 
-        right++
-        left++
+        // right++
+        // left++
 
     }
 
-return nums[ans]
+return nums[left]
 
 };
