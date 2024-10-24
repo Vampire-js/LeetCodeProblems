@@ -3,20 +3,26 @@
  * @return {void} Do not return anything, modify matrix in-place instead.
  */
 var rotate = function(matrix) {
-    let dummy = Array.from({ length: matrix.length }, () => Array(matrix.length).fill(0));
+  let high =0
+  let low = matrix.length -1
 
-    for(let  i=0; i<dummy.length; i++){
-        for(let  j=0; j<dummy.length; j++){
-        let targetRow = dummy.length -1 - i
-        dummy[j][targetRow] = matrix[i][j]
-        }
+  while(high < low){
+    for(let i=0; i<matrix.length; i++){
+        let a = matrix[high][i]
+        matrix[high][i] = matrix[low][i]
+        matrix[low][i] = a
     }
 
+    high ++
+    low --
+  }
 
-    for(let  i=0; i<dummy.length; i++){
-        for(let  j=0; j<dummy.length; j++){
-            matrix[i][j] = dummy[i][j]
-        }
-    }
+  for(let i = 0; i< matrix.length; i++){
+  for(let j = i+1; j< matrix.length; j++){
+    let a = matrix[i][j]
+    matrix[i][j] = matrix[j][i]
+    matrix[j][i] = a
+  }
+  }
     
 };
