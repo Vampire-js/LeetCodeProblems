@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0120-triangle) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0069-sqrtx) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
