@@ -23,15 +23,13 @@ if(arr[left] != n){
 }
     }
     
-    let ans = []
+    let ans = new Set()
     for(let i=0; i< nums2.length; i++){
         if(search(nums1, nums2[i])){
-            if(!search(ans, nums2[i])){
-                ans.push(nums2[i])
-            }
+          ans.add(nums2[i])
         }
     }
 
-    return ans
+    return Array.from(ans)
     //[1,1,2,2]
 };
