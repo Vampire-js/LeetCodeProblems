@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [1923-sentence-similarity-iii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 ## Dynamic Programming
