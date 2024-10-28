@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
@@ -164,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
