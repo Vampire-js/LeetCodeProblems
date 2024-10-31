@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0120-triangle) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0567-permutation-in-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0567-permutation-in-string) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
