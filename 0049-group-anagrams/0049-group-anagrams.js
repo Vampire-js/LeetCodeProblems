@@ -1,13 +1,16 @@
+/**
+ * @param {string[]} strs
+ * @return {string[][]}
+ */
 var groupAnagrams = function(strs) {
-    let ans = {};
+   let map = {}
 
-    for (let s of strs) {
-        let key = s.split('').sort().join('');
-        if (!ans[key]) {
-            ans[key] = [];
+   for(let c of strs){
+        let a = c.split('').sort().join('')
+        if(!map[a]){
+            map[a] = []
         }
-        ans[key].push(s);
-    }
-
-    return Object.values(ans);    
+        map[a].push(c)
+   }
+   return Object.values(map)
 };
