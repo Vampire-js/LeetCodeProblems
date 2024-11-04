@@ -2,35 +2,25 @@
  * @param {string} word
  * @return {string}
  */
-var compressedString = function(word) {
+var compressedString = function (word) {
     let comp = ""
 
     let left = 0
     let right = 0
 
-     let char = word[left]
-        let count = 0
-    
-    while(right <= word.length){
-       
-        if(word[left] == word[right]){
-            if(count < 9){
-            right++
+    let char = word[0]
+    let count = 1
+
+    for(let i=1; i<=word.length; i++){
+        if(word[i] == char && count < 9){
             count++
-            }else{
-            comp += `${count}${char}`
-            count = 0
-            char = word[right]
-            left = right
-            }
-          
         }else{
             comp += `${count}${char}`
-            count = 0
-            char = word[right]
-            left = right
+            char = word[i]
+            count = 1
         }
     }
 
+ 
     return comp
 };
