@@ -5,9 +5,6 @@
 var compressedString = function (word) {
     let comp = ""
 
-    let left = 0
-    let right = 0
-
     let char = word[0]
     let count = 1
 
