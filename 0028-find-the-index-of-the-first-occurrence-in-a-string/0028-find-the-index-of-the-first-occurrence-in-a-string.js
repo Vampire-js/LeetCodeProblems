@@ -19,7 +19,6 @@ return 0
 while(right <= haystack.length){
     let substr = haystack.substring(left,right)
 
-console.log(substr)
 
     if(substr == needle){
         return left
