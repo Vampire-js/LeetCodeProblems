@@ -15,7 +15,7 @@ var compressedString = function (word) {
         if(word[i] == char && count < 9){
             count++
         }else{
-            comp += `${count}${char}`
+            comp += String(count) + char
             char = word[i]
             count = 1
         }
