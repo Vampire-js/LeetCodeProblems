@@ -18,7 +18,7 @@ var compressedString = function(word) {
             right++
             count++
             }else{
-                comp += `${count}${char}`
+            comp += `${count}${char}`
             count = 0
             char = word[right]
             left = right
