@@ -1,22 +1,23 @@
+/**
+ * @param {string[]} strs
+ * @return {string[][]}
+ */
 var groupAnagrams = function(strs) {
-    let ans = new Map()
+    const result = new Map();
+    const baseCharCode = 'a'.charCodeAt(0);
 
-
-    for(let s of strs){
-        let count = new Array(26).fill(0)
-         const baseCharCode = 'a'.charCodeAt(0)
-
-        for(let c of s){
-            count[c.charCodeAt(0) - baseCharCode]++
+    for (let s of strs) {
+        const count = new Array(26).fill(0);
+        for (let c of s) {
+            count[c.charCodeAt(0) - baseCharCode]++;
         }
-let key = count.join(":")
-        if(!ans.has(key)){
-            ans.set(key , [])
+        const key = count.join('#');
+
+        if (!result.has(key)) {
+            result.set(key, []);
         }
+        result.get(key).push(s);
+    }
 
-        ans.get(key).push(s)
-    }  
-
-
-    return Array.from(ans.values())
+    return Array.from(result.values());
 };
