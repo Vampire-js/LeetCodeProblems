@@ -1,13 +1,17 @@
 var groupAnagrams = function(strs) {
-    let ans = {};
+    let ans = new Map()
 
     for (let s of strs) {
         let key = s.split('').sort().join('');
-        if (!ans[key]) {
-            ans[key] = [];
+        if (!ans.has(key)) {
+            ans.set(key , [])
         }
-        ans[key].push(s);
+        ans.get(key).push(s)
+    }
+    let res = []
+    for(let [a,b] of ans){
+        res.push(b)
     }
 
-    return Object.values(ans);    
+    return res;    
 };
