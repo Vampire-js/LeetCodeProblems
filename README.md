@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [1923-sentence-similarity-iii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -155,10 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 ## Geometry
 |  |
 | ------- |
@@ -217,4 +222,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0101-symmetric-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
