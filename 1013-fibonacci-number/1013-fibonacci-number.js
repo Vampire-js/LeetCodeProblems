@@ -3,8 +3,5 @@ function fib(n){
  return 1
     }
     if(n == 0) return 0
-let x = fib(n-1)
-let y = fib(n-2)
-
-return x+y
+return fib(n-1) + fib(n-2)
 }
