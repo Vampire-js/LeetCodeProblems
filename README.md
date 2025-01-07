@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0258-add-digits) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0120-triangle) |
 | [1013-fibonacci-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1013-fibonacci-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -250,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1013-fibonacci-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
