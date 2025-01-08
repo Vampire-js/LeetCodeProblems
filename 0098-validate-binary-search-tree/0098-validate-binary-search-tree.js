@@ -11,22 +11,13 @@
  * @return {boolean}
  */
 var isValidBST = function (root) {
-    let arr = []
-    function vs(r){
-        if(r == null){
-            return
-        }
-        vs(r.left)
-        arr.push(r.val)
-        vs(r.right)
-    }
+    
+function validate(r,min, max){
+    if(!r) return true
 
-    vs(root)
+    if(!(r.val > min && r.val < max)) return false;
+    return validate(r.left, min, r.val) && validate(r.right, r.val, max)
+}
 
-    for(let i=0; i<arr.length; i++){
-        if(arr[i+1] <= arr[i]){
-            return false
-        }
-    }
-    return true
+return validate(root, -Infinity, +Infinity)
 };
