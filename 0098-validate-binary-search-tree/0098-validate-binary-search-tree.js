@@ -19,5 +19,5 @@ function validate(r,min, max){
     return validate(r.left, min, r.val) && validate(r.right, r.val, max)
 }
 
-return validate(root, -Infinity, +Infinity)
+return validate(root, -Infinity, Infinity)
 };
