@@ -3,22 +3,17 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var sortColors = function(nums) {
-    function bs(arr, n){
-        let swapped = false
+let map = {0:0, 1:0, 2:0}
+for(let i=0; i<nums.length; i++){
+    map[nums[i]] += 1
+}
 
-        for(let i=0; i<arr.length - n; i++){
-            if(arr[i] >= arr[i+1]){
-                [arr[i], arr[i+1]] = [arr[i+1],arr[i]]
-                swapped = true
-            }
-        }
-
-        if(swapped){
-            return bs(arr, n+1)
-        }
-
-        return arr
+let id = 0
+for(let i=0; i<3; i++){
+    for(let j=0; j<map[i]; j++){
+        nums[id] = i;
+        id++
     }
+}
 
-bs(nums,0)
 };
