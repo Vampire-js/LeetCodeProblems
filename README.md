@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0164-maximum-gap) |
