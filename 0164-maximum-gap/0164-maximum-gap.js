@@ -4,6 +4,7 @@
  */
 var maximumGap = function(nums) {
   if(nums.length < 2) return 0  
+    if(nums.length == 2) return Math.abs(nums[0] - nums[1])
 
  const minVal = Math.min(...nums);
   const maxVal = Math.max(...nums);
