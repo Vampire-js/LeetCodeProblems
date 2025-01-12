@@ -7,8 +7,8 @@ var maximumGap = function(nums) {
 
  const minVal = Math.min(...nums);
   const maxVal = Math.max(...nums);
-  const n = nums.length;
-  const bucketSize = Math.max(1, Math.floor((maxVal - minVal) / (n - 1)));
+  
+  const bucketSize = Math.max(1, Math.floor((maxVal - minVal) / (nums.length - 1)));
   const bucketCount = Math.floor((maxVal - minVal) / bucketSize) + 1;
   const buckets = Array.from({ length: bucketCount }, () => ({ min: Infinity, max: -Infinity }));
 
