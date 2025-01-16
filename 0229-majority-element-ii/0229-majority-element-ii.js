@@ -9,9 +9,9 @@ var majorityElement = function (nums) {
     let left = 0
     let right = 0
     while (nums[right] != null) {
-        do {
+        while (nums[right] == nums[left]){
             right++
-        } while (nums[right] == nums[left])
+        } 
 
         if (right - left > nums.length / 3) ans.push(nums[left])
 
