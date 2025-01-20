@@ -3,11 +3,6 @@
  * @param {number} target
  * @return {number}
  */
-function absoluteMin(a, b) {
-    if (a === 0 || b === 0) return 0;
-    return Math.abs(a) < Math.abs(b) ? a : b;
-}
-
 var threeSumClosest = function (nums, target) {
     nums.sort((a, b) => a - b);
     let closestGap = Infinity; 
