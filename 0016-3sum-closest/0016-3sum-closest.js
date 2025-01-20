@@ -11,12 +11,12 @@ function absoluteMin(a, b) {
 var threeSumClosest = function (nums, target) {
     nums.sort((a, b) => a - b);
     let closestGap = Infinity; 
-    let left = 0;
-    let right = nums.length - 1;
+   
+   
 
-for(left = 0; left < nums.length -2; left++){
+for(let left = 0; left < nums.length -2; left++){
         let middle = left + 1;
-        right = nums.length -1
+        let right = nums.length -1
 
         while (middle < right) {
             const currentSum = nums[left] + nums[middle] + nums[right];
