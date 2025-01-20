@@ -22,13 +22,12 @@ for(let left = 0; left < nums.length -2; left++){
             const currentSum = nums[left] + nums[middle] + nums[right];
             const currentGap = target - currentSum;
 
-            closestGap = absoluteMin(closestGap, currentGap);
-              if (Math.abs(currentSum - target) < Math.abs(closestGap - target)) closest = currentSum;
+              if (Math.abs(currentSum - target) < Math.abs(closestGap - target)) closestGap = currentSum;
             if (currentSum > target) right--;
             else middle++;
         }
      
     }
 
-    return target -closestGap;
+    return closestGap;
 };
