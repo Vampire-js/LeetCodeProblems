@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0812-rotate-string) |
 | [1923-sentence-similarity-iii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1923-sentence-similarity-iii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0179-largest-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
