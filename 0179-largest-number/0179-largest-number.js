@@ -15,12 +15,7 @@ function qs(arr) {
     let left = []
     let right = []
     for (let i = 0; i < arr.length - 1; i++) {
-        if (compare(arr[i], pivot)) {
-            left.push(arr[i])
-        }
-        if (!compare(arr[i], pivot)) {
-            right.push(arr[i])
-        }
+    compare(arr[i], pivot) ? left.push(arr[i]) : right.push(arr[i]);
     }
     return [...qs(left), pivot, ...qs(right)]
 }
