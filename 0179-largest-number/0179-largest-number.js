@@ -7,28 +7,33 @@ function compare(n1, n2) {
     return false
 }
 
-function qs(arr) {
-    if (arr.length <= 1) {
-        return arr
+function partition(arr, low, high) {
+    const pivot = arr[high]; 
+    let i = low;
+
+    for (let j = low; j < high; j++) {
+        if (compare(arr[j], pivot)) {
+            [arr[i], arr[j]] = [arr[j], arr[i]];
+            i++;
+        }
     }
-    let pivot = arr[arr.length - 1]
-    let left = []
-    let right = []
-    for (let i = 0; i < arr.length - 1; i++) {
-    compare(arr[i], pivot) ? left.push(arr[i]) : right.push(arr[i]);
+
+    [arr[i], arr[high]] = [arr[high], arr[i]];
+    return i;
+}
+
+function quickSort(arr, low, high) {
+    if (low < high) {
+        const pivotIndex = partition(arr, low, high);
+        quickSort(arr, low, pivotIndex - 1);
+        quickSort(arr, pivotIndex + 1, high);
     }
-    return [...qs(left), pivot, ...qs(right)]
 }
 
 
 var largestNumber = function (nums) {
-    nums = qs(nums)
+    quickSort(nums, 0, nums.length -1)
 
-if(nums[0] == "0") return "0"
-
-    let ans = ""
-    for (let i = 0; i < nums.length; i++) {
-      ans += `${nums[i]}`
-    }
-    return ans
+    if(nums[0] == "0") return "0"
+    return nums.join('');
 };
