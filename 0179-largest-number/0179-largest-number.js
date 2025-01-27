@@ -28,13 +28,13 @@ return [...qs(left), pivot, ...qs(right)]
 
 var largestNumber = function (nums) {
 nums = qs(nums)
-    for (let i = 0; i < nums.length; i++) {
-        for (let j = 0; j < nums.length - 1 - i; j++) {
-            if (!compare(nums[j], nums[j + 1])) {
-                [nums[j], nums[j + 1]] = [nums[j + 1], nums[j]]
-            }
-        }
-    }
+    // for (let i = 0; i < nums.length; i++) {
+    //     for (let j = 0; j < nums.length - 1 - i; j++) {
+    //         if (!compare(nums[j], nums[j + 1])) {
+    //             [nums[j], nums[j + 1]] = [nums[j + 1], nums[j]]
+    //         }
+    //     }
+    // }
 
     let ans = ""
     let isZero = true
