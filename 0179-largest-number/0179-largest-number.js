@@ -2,11 +2,12 @@
  * @param {number[]} nums
  * @return {string}
  */
-var largestNumber = function(nums) {
     function compare(n1,n2){
         if(parseInt(`${n1}${n2}`) > parseInt(`${n2}${n1}`)) {return true}
         return false
     }
+var largestNumber = function(nums) {
+
     for(let i=0; i<nums.length; i++){
         for(let j=0; j<nums.length - 1 - i; j++){
             if(!compare(nums[j], nums[j+1])){
