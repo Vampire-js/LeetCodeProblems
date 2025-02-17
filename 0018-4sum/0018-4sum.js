@@ -13,8 +13,9 @@ var fourSum = function (nums, target) {
         if(j > i+1 && nums[j] == nums[j-1]) continue
             let a = j+1
             let b = nums.length-1
+             let sum
             while(a<b){
-               let sum= nums[a] + nums[b] + nums[i] + nums[j]
+              sum = nums[a] + nums[b] + nums[i] + nums[j]
                if(sum == target){
                 ans.push([nums[a] ,nums[b], nums[i] ,nums[j]])
                 a++ 
