@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0136-single-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
