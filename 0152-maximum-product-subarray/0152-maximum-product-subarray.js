@@ -2,13 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
- function prod(arr,l,r){
-    let ans = 1;
-    for(let i=l; i<=r ;i++){
-        ans *= arr[i]
-    }
-    return ans
- }
+
 var maxProduct = function(nums) {
    let ans = Math.max(...nums)
    let max = 1
