@@ -4,16 +4,15 @@
  */
 
 var maxProduct = function(nums) {
-   let ans = Math.max(...nums)
-   let max = 1
-   let min = 1
-   for(let n of nums){
-    let temp = max*n
-    max = Math.max(temp, min*n, n)
-    min = Math.min(temp, min*n, n)
-
-    ans = Math.max(ans, max)
-   }
-
+ let ans = -Infinity
+ for(let i=0; i<nums.length -1; i++){
+    let p = nums[i]
+     for(let j=i+1; j<nums.length; j++){
+        
+        p *= nums[j]
+        ans = Math.max(p,ans)
+     }
+ }
+ans = Math.max(ans, Math.max(...nums))
    return ans
 };
