@@ -4,7 +4,7 @@
  */
 var permute = function(nums) {
     let ans = []
-    function back(comb, id){
+    function back(comb){
         if(comb.length == nums.length){
             ans.push([...comb])
             return
@@ -12,9 +12,9 @@ var permute = function(nums) {
 
         for(let i=0; i<nums.length; i++){
         
-        if(!comb.includes(nums[i])) back([...comb, nums[i]], id+1)
+        if(!comb.includes(nums[i])) back([...comb, nums[i]])
         }
     }
-    back([], 0)
+    back([])
     return ans
 };
