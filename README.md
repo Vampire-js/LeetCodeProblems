@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0056-merge-intervals) |
@@ -310,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
