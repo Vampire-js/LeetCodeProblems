@@ -7,7 +7,6 @@ var combinationSum = function(candidates, target) {
 
     let ans = []
     let curr = []
-    candidates.sort((a, b) => a - b)
     back(candidates,0,target, ans, curr)
     return ans
     
