@@ -11,16 +11,16 @@
  * @return {TreeNode}
  */
 var sortedArrayToBST = function(nums) {
-    function bs(arr){
-        if(arr.length === 0) return null;
+    function bs(arr, start, end){
+        if(start > end ) return null;
 
-        let mid = Math.floor(arr.length / 2);
+        let mid = Math.floor((start+end) / 2);
         let node = new TreeNode(arr[mid]);
 
-        node.left = bs(arr.slice(0, mid));      
-        node.right = bs(arr.slice(mid + 1)); 
+        node.left = bs(arr, start, mid-1);      
+        node.right = bs(arr, mid+1, end); 
 
         return node;
     }
-    return bs(nums);
+    return bs(nums, 0, nums.length -1);
 };
