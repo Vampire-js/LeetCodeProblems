@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Sliding Window
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
