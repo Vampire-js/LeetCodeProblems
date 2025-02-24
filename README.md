@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
