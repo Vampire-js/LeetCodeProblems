@@ -4,8 +4,6 @@
  */
 var longestPalindrome = function(s) {
     let map = {}
-    let oneOdd = false
-    let maxOdd = 0
     let max = 0
     for(let c of s){
         map[c] = 1 + (map[c] | 0)
