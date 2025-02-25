@@ -11,18 +11,18 @@
  * @return {number}
  */
 
-var minDepth = function(root) {
-    if(root == null) return 0
+var minDepth = function (root) {
+    if (root == null) return 0
     let ans = Infinity;
-   function min(r,d){
-    if(r == null) return
-    if(r.left == null && r.right == null){
-    ans = Math.min(ans, d)
+    function min(r, d) {
+        if (r == null) return
+        if (r.left == null && r.right == null) {
+            ans = Math.min(ans, d)
+        }
+        min(r.left, d + 1)
+        min(r.right, d + 1)
     }
-    min(r.left,d+1)
-    min(r.right,d+1)
- }
 
- min(root,1)
- return ans
+    min(root, 1)
+    return ans
 };
