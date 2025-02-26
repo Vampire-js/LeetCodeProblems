@@ -8,12 +8,14 @@ var pathSum = function(root, targetSum) {
         a = [...a, r.val]; 
         
         if (r.left == null && r.right == null) {
-            if (s == targetSum) ans.push(a);
+            if (s == targetSum) ans.push([...a]);
             return;
         }
         
         sum(r.left, s, a);
         sum(r.right, s, a);
+
+        a.pop()
     }  
     
     sum(root, 0, []);
