@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0812-rotate-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 ## Prefix Sum
 |  |
 | ------- |
