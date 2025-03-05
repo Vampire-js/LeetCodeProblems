@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2649-count-total-number-of-colored-cells) |
 ## Bit Manipulation
 |  |
 | ------- |
