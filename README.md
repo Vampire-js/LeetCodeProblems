@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0975-range-sum-of-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0975-range-sum-of-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0975-range-sum-of-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0975-range-sum-of-bst](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0975-range-sum-of-bst) |
 ## Radix Sort
 |  |
 | ------- |
