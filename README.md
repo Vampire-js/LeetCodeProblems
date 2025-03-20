@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0344-reverse-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vampire-js/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0099-recover-binary-search-tree) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 ## Prefix Sum
