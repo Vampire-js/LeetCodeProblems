@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0830-largest-triangle-area](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1923-sentence-similarity-iii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1923-sentence-similarity-iii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
