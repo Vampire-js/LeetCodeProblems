@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0229-majority-element-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0204-count-primes) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Design
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0258-add-digits) |
 ## Memoization
 |  |
