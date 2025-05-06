@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1923-sentence-similarity-iii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1923-sentence-similarity-iii) |
+| [2048-build-array-from-permutation](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0258-add-digits) |
+| [2048-build-array-from-permutation](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2048-build-array-from-permutation) |
 ## Linked List
 |  |
 | ------- |
