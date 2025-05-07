@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0830-largest-triangle-area](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1923-sentence-similarity-iii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1923-sentence-similarity-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0908-middle-of-the-linked-list) |
 | [1923-sentence-similarity-iii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -410,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
