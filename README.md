@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0830-largest-triangle-area](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
+| [1293-three-consecutive-odds](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1293-three-consecutive-odds) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1923-sentence-similarity-iii](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [2048-build-array-from-permutation](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2048-build-array-from-permutation) |
