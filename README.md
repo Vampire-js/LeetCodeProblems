@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0397-integer-replacement) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
+| [0397-integer-replacement](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0409-longest-palindrome) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Binary Search Tree
 |  |
