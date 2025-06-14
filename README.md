@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vampire-js/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [2502-sort-the-people](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vampire-js/LeetCodeProblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vampire-js/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
 | ------- |
