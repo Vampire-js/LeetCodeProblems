@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0079-word-search) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0120-triangle) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vampire-js/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vampire-js/LeetCodeProblems/tree/master/3748-sort-matrix-by-diagonals) |
