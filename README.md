@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0069-sqrtx) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0118-pascals-triangle) |
@@ -481,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vampire-js/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vampire-js/LeetCodeProblems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
